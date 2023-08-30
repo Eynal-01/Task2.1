@@ -1,0 +1,111 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: rgb(240, 240, 240);
+}
+
+p {
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 2% 0% 2% 13%;
+    display: inline-block;
+}
+
+.notification {
+    width: 1.5%;
+    display: inline-block;
+    background-color: rgb(216, 213, 213);
+    font-size: 15px;
+    color: white;
+    padding: 0.08%;
+    text-align: center;
+    margin: 0% 0% 0% 0.1%;
+    border-radius: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.panel {
+    background-color: white;
+}
+
+.add {
+    border-radius: 30px;
+    padding: 0.5%;
+    margin: 0% 0% 0% 10%;
+    width: 12%;
+    background-color: rgb(3, 165, 219);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: inline-block;
+    text-align: center;
+    font-weight: bold;
+    color: white
+}
+
+.newline {
+    background-color: rgb(3, 165, 219);
+    height: 3px;
+    width: 5.5%;
+    margin: 0% 0% 0% 32.1%;
+    border-radius: 20px;
+}
+
+#blue {
+    background-color: rgb(3, 165, 219);
+
+}
+
+.show {
+    margin: 4% 0% 0% 10%;
+    display: inline-block;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.cell {
+    display: inline-block;
+    width: 1.5%;
+    background-color: white;
+    padding: 0.5%;
+    text-align: center;
+    color: rgb(68, 68, 68);
+    border-radius: 5px 0px 0px 5px;
+    margin: 0px 0px 0px 15%;
+}
+
+.mail {
+    display: inline-block;
+    width: 1.5%;
+    background-color: white;
+    padding: 0.5%;
+    text-align: center;
+    color: rgb(68, 68, 68);
+    border-radius: 0px 5px 5px 0px;
+    margin: 0px 0px 0px 0px;
+}
+
+.select {
+    display: inline-block;
+    margin: 0% 0% 0% 10%;
+    width: 10%;
+}
+
+#people1 {
+    width: 100%;
+    padding: 10px;
+    border-radius:5px;
+}
+
+.save{
+    border-radius: 30px;
+    padding: 0.5%;
+    margin: 0% 0% 0% 15%;
+    width: 12%;
+    background-color: rgb(0, 207, 121);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: inline-block;
+    text-align: center;
+    font-weight: bold;
+    color: white
+}
